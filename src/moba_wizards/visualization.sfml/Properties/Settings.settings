@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Com.CodeGame.CodeWizards2016.DevKit.CSharpCgdk.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ResourcesDir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.\</Value>
+    </Setting>
+    <Setting Name="EnableAudio" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ObserveTarget" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ShowMinimap" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="WindowSizeW" Type="System.UInt32" Scope="Application">
+      <Value Profile="(Default)">1080</Value>
+    </Setting>
+    <Setting Name="WindowSizeH" Type="System.UInt32" Scope="Application">
+      <Value Profile="(Default)">1080</Value>
+    </Setting>
+    <Setting Name="ScreenMoveK" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

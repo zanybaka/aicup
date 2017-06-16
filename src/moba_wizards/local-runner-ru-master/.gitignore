@@ -1,0 +1,3 @@
+*.err
+hs_err*.log
+replay_*.log

@@ -1,0 +1,8 @@
+**/_Resharper.Caches
+**/.vs
+**/bin
+**/obj
+**/packages
+**/*.user
+**/*.userprefs
+**/*.suo

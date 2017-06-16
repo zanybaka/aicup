@@ -1,0 +1,1 @@
+http://www.sfml-dev.org/tutorials/2.0/compile-with-cmake.php
